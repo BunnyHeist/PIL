@@ -1,3 +1,5 @@
+from PIL import Image
+
 #getting width and height of image
 width, height = img.size
 
